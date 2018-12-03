@@ -5,16 +5,9 @@ body {
   width: 100;
 }
 
-h1 {
+.personal {
   font-family: Georgia, serif;
   font-size: 28px;
-  color: black;
-  text-align: center;
-}
-
-h2 {
-  font-family: Georgia, serif;
-  font-size: 18px;
   color: black;
   text-align: center;
 }
