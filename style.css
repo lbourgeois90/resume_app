@@ -10,3 +10,9 @@ body {
   color: black;
   text-align: center;
 }
+
+.education {
+  font-family: Georgia, serif;
+  font-size: 12px;
+  color: black;
+}
