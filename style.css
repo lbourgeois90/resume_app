@@ -11,6 +11,13 @@ body {
   text-align: center;
 }
 
+.headers {
+  font-family: Georgia, serif;
+  font-size: 14px;
+  color: black;
+  text-decoration: underline;
+}
+
 .education {
   font-family: Georgia, serif;
   font-size: 12px;
