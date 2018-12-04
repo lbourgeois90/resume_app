@@ -12,7 +12,7 @@ body {
 }
 
 .headers {
-  font-family: "Courier New", Courier, monospace;
+   font-family: Georgia, serif;
   font-size: 14px;
   color: black;
   text-decoration: underline;
