@@ -1,6 +1,6 @@
 header{
-  background-color: #9A9B9B;
-  border-bottom: 1px solid #9A9B9B;
+  background-color: #F3D1F2;
+  border-bottom: 1px solid #F3D1F2;
   position: fixed;
   width:100%;
   z-index: 10;
@@ -73,7 +73,7 @@ footer {
 }
 
 .intro {
-  background-color: #C9CCCD;
+  background-color: #D1EBFA;
   box-sizing: border-box;
   padding: 40px;
   text-align: center;
