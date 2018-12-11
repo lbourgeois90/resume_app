@@ -11,9 +11,9 @@ table, thead, th, td {
 }
 
 table {
-  width: 100%;
+  width: %;
 }
 
-thead {
+thead, th {
   height: 200px;
 }
