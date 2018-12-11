@@ -6,13 +6,13 @@ header{
   z-index: 10;
 }
 
-.header ul {
+.header {
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
   }}
 
-.header li {
+.header {
   color: #FFF;
   font-family: Georgia;
   font-size: 16px;
@@ -22,9 +22,6 @@ header{
   width:80px;
 }
 
-.header li:hover {
-  color: #DBE9EE;
-}
 
 h1 {
   color: #466995;
