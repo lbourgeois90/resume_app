@@ -22,7 +22,7 @@ header{
   width:80px;
 }
 
-.header li:hover {
+.header:hover {
   color: #DBE9EE;
 }
 
