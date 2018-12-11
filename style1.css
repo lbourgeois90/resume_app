@@ -1,24 +1,17 @@
-.intro {
-  font-size: 14px;
-  font-family: Georgia;
-  text-align: center;
-}
-
-header {
+header{
   background-color: #9A9B9B;
   border-bottom: 1px solid #9A9B9B;
   position: fixed;
   width:100%;
   z-index: 10;
-}
 
-ul {
+.header ul {
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
-}
+  }}
 
-li {
+.header li {
   color: #FFF;
   font-family: Georgia;
   font-size: 16px;
@@ -28,7 +21,7 @@ li {
   width:80px;
 }
 
-li:hover {
+.header li:hover {
   color: #DBE9EE;
 }
 
@@ -80,7 +73,7 @@ footer {
   height:100px;
 }
 
-.welcome {
+.intro {
   background-color: #C9CCCD;
   box-sizing: border-box;
   padding: 40px;
