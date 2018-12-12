@@ -75,6 +75,13 @@ footer {
   height:100px;
 }
 
+td {
+  color: #333;
+  font-family: Georgia;
+  font-size: 18px;
+}
+  
+
 .intro {
   background-color: #D1EBFA;
   box-sizing: border-box;
