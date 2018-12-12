@@ -6,13 +6,13 @@ header{
   background-color: #F3D1F2;
   border-bottom: 1px solid #F3D1F2;
   position: fixed;
-  width:300 px;
+  width: 100%;
   z-index: 10;
 }
 
 li.header {
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 0 10px;
   text-align: center;
   }
 
@@ -98,7 +98,7 @@ td {
 
 .activators {
   background-color: #B9FBE5;
-  text-align: center;
+  text-align: left;
   position:relative;
   top:40px;
   width:100%
