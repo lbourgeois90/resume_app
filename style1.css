@@ -93,6 +93,14 @@ footer {
   width:100%
 }
 
+.student {
+    background-color: #E8D9FE;
+  text-align: center;
+  position:relative;
+  top:40px;
+  width:100%
+}
+
 .grade {
   background-color: #FEF6B0;
   text-align: center;
