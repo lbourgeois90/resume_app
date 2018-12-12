@@ -11,8 +11,9 @@ header{
 }
 
 li.header {
-  padding: 0 25px;
-  text-align: left;
+  margin: 30px auto;
+  padding: 0 30px;
+  text-align: center;
   }
 
 li.header {
