@@ -12,14 +12,14 @@ header{
 
 li.header {
   margin: 30px auto;
-  padding: 0 10px;
+  padding: 0 30px;
   text-align: center;
   }
 
 li.header {
   color: #FFF;
   font-family: Georgia;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
   text-transform: uppercase;
   display:inline-block;
