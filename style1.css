@@ -1,25 +1,23 @@
 header{
   background-color: #F3D1F2;
   border-bottom: 1px solid #F3D1F2;
-  position: fixed;
-  width:100%;
-  z-index: 10;
 }
 
-li.header {
-  margin: 30px auto;
-  padding: 0 20px;
-  text-align: center;
-  }
 
 li.header {
+  list-style-type: none;
   color: #FFF;
   font-family: Georgia;
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
-  display:inline-block;
+  display:inline;
+  height: 100%
   width:80px;
+  text-align: center;
+  position: fixed;
+  overflow: auto;
+  
 }
 
 a 
